@@ -1,0 +1,9 @@
+Flask
+Flask-SocketIO
+opencv-python-headless
+ultralytics
+mediapipe
+numpy
+torch
+requests
+msvc-runtime
